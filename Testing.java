@@ -7,6 +7,7 @@ public class Testing {
         numberOne ++;
 
         System.out.println(numberOne + numberTwo);
+        System.out.println(numberOne * numberTwo);
 
     }
 }
